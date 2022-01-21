@@ -1,0 +1,27 @@
+{
+  "name": "@samwen/simple-js",
+  "version": "1.0.0",
+  "description": "convert a simple javascript object to js file",
+  "main": "./src/index.js",
+  "dependencies": {
+    "csvjson-json_beautifier": "^5.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samswen/simple-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "object",
+    "js file"
+  ],
+  "author": "Sam Wen",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^8.6.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^9.1.3",
+    "sinon": "^12.0.1"
+  }
+}
